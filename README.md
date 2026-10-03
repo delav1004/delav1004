@@ -1,6 +1,6 @@
 ## Hello world 👋 
 ### My name is __Iktan__ _(He/Him)_
-I am a graduate from the Interactive Design & Technology program at Saskatchewan Polytechnic 🎓 and have a degree in Industrial Design from Universidad Autónoma Metropolitana 🎓. I currently work as a Research Assistant, Web Developer, and Designer. Always excited to LEARN🧠 new and exciting stuff✨❗
+I am a graduate of the Interactive Design & Technology program at Saskatchewan Polytechnic 🎓 and have a degree in Industrial Design from Universidad Autónoma Metropolitana 🎓. I currently work as a Lead Research Technologist, Web Developer, and Designer. Always excited to LEARN🧠 new and exciting stuff✨. Currently learning: **Unity and C#** 🌱
 ### In my free time, I like to:
 - 🎸 Play guitar
 - 📷 Take photographs
